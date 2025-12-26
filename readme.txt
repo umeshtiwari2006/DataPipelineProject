@@ -1,0 +1,1 @@
+This Project is about moving data from open source api to azure sql db. happy
